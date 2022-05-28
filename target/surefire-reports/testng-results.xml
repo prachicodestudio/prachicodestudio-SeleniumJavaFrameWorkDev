@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T06:11:16 IST" name="Suite" finished-at="2022-05-28T06:12:18 IST" duration-ms="62409">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T06:11:16 IST" name="Test" finished-at="2022-05-28T06:12:18 IST" duration-ms="62409">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@7e7be63f]" started-at="2022-05-28T06:11:16 IST" name="setup" finished-at="2022-05-28T06:11:26 IST" duration-ms="9270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyBuyProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@7e7be63f]" started-at="2022-05-28T06:11:26 IST" name="VerifyBuyProduct" finished-at="2022-05-28T06:12:05 IST" duration-ms="39461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBuyProduct -->
+        <test-method signature="VerifySearchProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@7e7be63f]" started-at="2022-05-28T06:12:05 IST" name="VerifySearchProduct" finished-at="2022-05-28T06:12:14 IST" duration-ms="9361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchProduct -->
+        <test-method signature="verifyAddToWishlistWithoutLogin()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@7e7be63f]" started-at="2022-05-28T06:12:14 IST" name="verifyAddToWishlistWithoutLogin" finished-at="2022-05-28T06:12:18 IST" duration-ms="3159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToWishlistWithoutLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@7e7be63f]" started-at="2022-05-28T06:12:18 IST" name="tearDown" finished-at="2022-05-28T06:12:18 IST" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
