@@ -9,6 +9,8 @@
 		<classes>
 			<class name="com.mystore.testcases.TC_MyAccountPageTest" />
 			<class name="com.mystore.testcases.TC_ProductPageTest" />
+			
+			<methods> alignment issues </methods>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
